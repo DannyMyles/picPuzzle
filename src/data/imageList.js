@@ -1,7 +1,3 @@
-/**
- * List of image files names available as puzzle image
- * @type {string[]}
- */
 export const imageList = [
     'cliff-cove.jpg',
     'creek-hike.jpg',

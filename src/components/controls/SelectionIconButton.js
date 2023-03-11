@@ -1,14 +1,3 @@
-/**
- * Renders a button used to select the size on orientation of the puzzle,
- * Buttons include an icon a name and a value
- * @param {JSX.Element} icon - icon to render
- * @param {string} text - name of the option
- * @param {function} onClick - action to do onClick
- * @param {boolean} active - true if the option is to be shown as selected, false otherwise
- * @param {string|JSX.Element|JSX.Element[]} children - value of the option
- * @returns {JSX.Element}
- * @constructor
- */
 const SelectionIconButton = ({icon, text, onClick, active, children}) => {
     return (
         <button

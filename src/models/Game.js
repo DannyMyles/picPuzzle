@@ -40,7 +40,7 @@ class Game
         this.endTime = null;
 
         /**
-         * @type {?{x: number, y: number}[]} list of moves that where made during the game
+        imageList * @type {?{x: number, y: number}[]} list of moves that where made during the game
          */
         this.moves = null;
 

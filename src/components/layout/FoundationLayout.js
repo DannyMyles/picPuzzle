@@ -1,10 +1,3 @@
-/**
- * Outer wrapper of the entire app,
- * places the app content in the center of the screen and sets a top level background
- * @param children
- * @returns {JSX.Element}
- * @constructor
- */
 const FoundationLayout = ({children}) => {
     return (
         <div className="bg-[url('./assets/images/background.jpg')] bg-cover bg-center">

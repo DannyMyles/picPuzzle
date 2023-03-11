@@ -1,11 +1,3 @@
-/**
- * Renders an individual game information, with an Icon, a Label and a Value
- * @param {?JSX.Element} icon icon to render
- * @param {string} label information label
- * @param {string|number|JSX.Element} children information content (value)
- * @returns {JSX.Element}
- * @constructor
- */
 const GameInfo = ({icon = null, label = '', children}) => {
     return (
         <div

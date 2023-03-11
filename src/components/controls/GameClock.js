@@ -3,11 +3,6 @@ import {GameContext} from "../../store/GameContext";
 import {IoMdTime} from "react-icons/io";
 import GameInfo from "./GameInfo";
 
-/**
- * Renders a clock showing the time elapsed
- * @returns {JSX.Element}
- * @constructor
- */
 const GameClock = () => {
     /**
      * @type {import('../../store/GameContext').GameContextType}
