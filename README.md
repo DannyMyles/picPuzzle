@@ -31,7 +31,7 @@ The Icons, though imported via react-icons originate from:
 
 ## Run the game locally
 
-### `git clone https://github.com/audaxland/picsPuzzleReact` 
+### `git clone https://github.com/DannyMyles/picPuzzle` 
 
 Clone the repository and run npm install with the commands
 
