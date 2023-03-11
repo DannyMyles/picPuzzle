@@ -36,7 +36,7 @@ The Icons, though imported via react-icons originate from:
 Clone the repository and run npm install with the commands
 
 ```bash
-git clone https://github.com/audaxland/picsPuzzleReact
+git clone https://github.com/audaxland/picsPuzzleReact](https://github.com/DannyMyles/picPuzzle)
 cd picsPuzzleReact
 npm install
 ```
